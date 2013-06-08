@@ -1,0 +1,4 @@
+.scrapy/*
+log/*
+data/*
+*.pyc
